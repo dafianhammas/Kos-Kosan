@@ -2,9 +2,9 @@
     Aplikasi ini membutuhkan koneksi internet untuk menampilkan maps dari google
 
 ### Tools
-    000webhost.com - Sebagai tempat penyimapanan database online agar bisa di akses secara online multi platform dan tempat hosting Web Platform
-    Android Studio
-    Sublime Text
+    - 000webhost.com
+    - Android Studio
+    - Sublime Text
 ### Contributor
 
     Muhammad Hasfar A (18000253) - Ketua
