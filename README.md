@@ -16,7 +16,7 @@
     Web Platform - https://muhammadhasfar.000webhostapp.com
     https://raw.githubusercontent.com/deden1998/Kos-Kosan/master/Screenshot%20(81).png
 ### Web
-    https://github.com/deden1998/Kos-Kosan/blob/master/Screenshot%20(81).png
+    https://github.com/deden1998/Kos-Kosan/issues/1
     
 ### Running the tests
 
