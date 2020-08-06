@@ -3,8 +3,8 @@
 /**
  * Database connection setup
  */
-if (!$connection = new Mysqli("localhost", "12","Deden","1998")) {
-if (!$connection = new Mysqli("mysql.idhostinger.com", "12", "Deden", "1998")) {
+if (!$connection = new Mysqli("localhost", "12","pemilik","pemilik")) {
+if (!$connection = new Mysqli("mysql.idhostinger.com", "u545578441_ekost", "ekost", "u545578441_ekost")) {
   echo "<h3>ERROR: Koneksi database gagal!</h3>";
 }
 
