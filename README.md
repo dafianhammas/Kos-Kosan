@@ -1,7 +1,7 @@
 ### Kos-Kosan
-Aplikasi ini membutuhkan koneksi internet untuk menampilkan maps dari google
+    Aplikasi ini membutuhkan koneksi internet untuk menampilkan maps dari google
 
-### ools
+### Tools
     000webhost.com - Sebagai tempat penyimapanan database online agar bisa di akses secara online multi platform dan tempat hosting Web Platform
     Android Studio
     Sublime Text
